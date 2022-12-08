@@ -1,0 +1,46 @@
+
+img {
+    width: 50%px; padding-left:10%; padding-top: 25px; padding-right: 100px;
+    border-radius: 23px 23px 23px 23px;
+    outline-style: dashed;
+    outline-color: red;
+    border-top: 25px;
+    float: left;
+}
+
+body{
+    background-color: rgba(68, 131, 195, .252);
+}
+
+.div1 {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2.5em;
+    color: rgb(169, 72, 16);
+    vertical-align: middle;
+    padding-left: 10%;
+    background-color: rgba(133, 169, 252, 0.364);
+}
+
+.div2 {
+    font-family: cursive;
+    padding-top: 50px;
+    padding-left: 60%;
+}
+
+.tableauPlaceholder {
+    padding-top: 100px; padding-left: 12.5%; padding-bottom: 50px;
+    width:75%
+
+}
+
+h4 {
+    font-family:'Courier New', Courier, monospace;
+    font-size: small;
+    color: rgb(28, 73, 28);
+    text-align: right;
+}
+
+p {
+    padding-top: 25px; padding-bottom: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
